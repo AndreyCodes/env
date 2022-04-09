@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.23)
 
 
 add_subdirectory(boost EXCLUDE_FROM_ALL)
-#find_package(Boost CONFIG COMPONENTS Boost::thread)
+
 
 project(MyApp)
 
